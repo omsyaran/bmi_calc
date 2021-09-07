@@ -1,4 +1,4 @@
-# dummy
+# BMI calculator app
 
 A new Flutter project.
 
